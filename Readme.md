@@ -1,6 +1,6 @@
 # 🎮 Video Gaming App Review (Flutter)
 
-A cross-platform Flutter app for discovering, reviewing, and tracking your favorite video games.
+A cross-platform Flutter dart app for discovering, reviewing, and tracking your favorite video games for my mobile application development university course project.
 
 ## 🚀 Features
 - 🕹️ Browse popular and upcoming video games
